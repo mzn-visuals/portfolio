@@ -2,7 +2,7 @@
 
 Personal portfolio of **Mazin**, a self-taught multi-disciplinary freelancer operating under the **MZN Visuals** brand out of Muscat, Oman.
 
-Live at [mzn.visuals.cc.cd](https://mzn.visuals.cc.cd)
+Live at [mzn.visuals.cc.cd](https://mznvisuals.cc.cd)
 
 ---
 
